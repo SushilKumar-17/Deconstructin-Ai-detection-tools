@@ -11,9 +11,8 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-**Author:** Sushil Kumar Patra  
+**Authors:** Sushil Kumar Patra, Sushant Mahajan, Abhishek Gargya, Vansh Rana. 
 **Institution:** Department of Computer Science and Engineering, Apex Institute of Technology, Chandigarh University  
-**Collaborators:** Sushant Mahajan, Abhishek Gargya, Vansh Rana, Preeti Khera  
 **Project Type:** Academic Research | Adversarial AI | Detection Bias Study
 
 ---
