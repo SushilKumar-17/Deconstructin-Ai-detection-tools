@@ -27,10 +27,6 @@ It uncovers detection biases, genre-specific weaknesses, and ethical challenges 
 
 ---
 
-## Repository Structure
-
----
-
 ## Research Methodology
 
 The methodology integrates **quantitative evaluation** with **ethical and fairness assessment** of AI detectors.
